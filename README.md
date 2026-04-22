@@ -2,6 +2,8 @@
 
 Juego clásico de la serpiente (Snake) con estética hacker/cyberpunk, construido con HTML5, CSS3 y JavaScript vanilla.
 
+**[Juega ahora](https://deartdev.github.io/snake/)** - https://deartdev.github.io/snake/
+
 ![Preview](https://img.shields.io/badge/HTML5-CSS3--JS-blue?style=flat&logo=html5)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -86,6 +88,7 @@ snake/
 - JavaScript ES6+
 - Google Fonts (Orbitron, JetBrains Mono)
 - Bootstrap Icons
+- **Desarrollado en Android usando Termux**
 
 ## Estilos Visuales
 
@@ -133,3 +136,5 @@ MIT License - Libre para usar y modificar.
 ---
 
 **Presiona ENTER (PC) o toca JUGAR (móvil) para comenzar a jugar**
+
+**TerWorks - DeartDev**
